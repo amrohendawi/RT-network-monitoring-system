@@ -1,3 +1,14 @@
+This is a full-fledged network monitoring system using the following technologies:
+
+1. Docker
+2. eBPF & XDP
+3. Linux kernel libraries
+4. Prometheus python-exporter
+5. Prometheus
+6. Grafana
+
+
+
 **Requirements**
 
 1. [BCC tools](https://github.com/iovisor/bcc)
