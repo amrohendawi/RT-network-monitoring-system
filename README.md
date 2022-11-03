@@ -1,5 +1,6 @@
 # RT network monitoring system based on eBPF
 
+This is a real-time network monitoring system for Linux. It combines the power of the Linux kernel's eBPF technology with the flexibility of the Prometheus monitoring system.
 
 **Table of Contents**
 
